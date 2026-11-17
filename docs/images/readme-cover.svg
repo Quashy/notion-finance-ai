@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="270" viewBox="0 0 1120 270" role="img" aria-labelledby="title desc">
+<title id="title">把记账交给 AI</title><desc id="desc">用户说午饭 28 元，AI 助理将午饭、餐饮、¥28.00 记入 Notion 收支明细。</desc>
+<rect width="1120" height="270" rx="20" fill="#f5f5f7"/>
+<path d="M600 32v206M632 32h456M632 238h456" stroke="#ededf0"/>
+<rect x="48" y="47" width="38" height="5" rx="2.5" fill="#0066cc"/>
+<text x="48" y="125" fill="#1d1d1f" font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif" font-size="52" font-weight="700">把记账交给 AI</text>
+<text x="50" y="174" fill="#6e6e73" font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif" font-size="22">对话记账 · 退款对账 · 定时报表</text>
+<g font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif">
+<path d="M684 42h388a16 16 0 0 1 16 16v20a16 16 0 0 1-16 16h-354l-18 10v-10h-16a16 16 0 0 1-16-16v-20a16 16 0 0 1 16-16z" fill="#e7f2fd"/>
+<text x="690" y="76" fill="#0066cc" font-size="26" font-weight="600">午饭 28 元，帮我记上。</text>
+<path d="m660 117 5 5 10-11" fill="none" stroke="#0066cc" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="690" y="124" fill="#6e6e73" font-size="22">AI 助理 · 已记入 Notion</text>
+<rect x="632" y="140" width="456" height="92" rx="12" fill="#ffffff" stroke="#dedee2"/>
+<text x="650" y="168" fill="#1d1d1f" font-size="20" font-weight="600">Notion · 收支明细</text>
+<rect x="644" y="180" width="432" height="40" rx="6" fill="#e7f2fd"/>
+<text x="660" y="209" fill="#1d1d1f" font-size="28" font-weight="700">午饭</text>
+<text x="806" y="209" fill="#6e6e73" font-size="26">餐饮</text>
+<text x="1058" y="209" text-anchor="end" fill="#0066cc" font-size="28" font-weight="700">¥28.00</text>
+</g>
+</svg>
