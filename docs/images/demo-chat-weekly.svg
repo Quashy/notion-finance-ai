@@ -1,1 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="650" viewBox="0 0 600 650" role="img" aria-label="定时周报对话：周日晚上收到净支出、分类和预算小结"><title>定时周报对话：周日晚上收到净支出、分类和预算小结</title><rect width="600" height="650" rx="20" fill="#f5f5f7"/><g font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif"><text x="550" y="34" fill="#6e6e73" font-size="20" font-weight="600"><tspan x="550" dy="0">你</tspan></text><rect x="48" y="50" width="532" height="132" rx="16" fill="#0066cc"/><text x="68" y="82" fill="#ffffff" font-size="22" font-weight="400"><tspan x="68" dy="0">每周日晚上 8 点发我一份本周财务小结：</tspan><tspan x="68" dy="34">净支出多少、主要花在哪、这个月哪些预算</tspan><tspan x="68" dy="34">快用完了。按北京时间。</tspan></text><text x="145" y="236" fill="#6e6e73" font-size="20" font-weight="400"><tspan x="145" dy="0">周日 20:00 · 北京时间</tspan></text><text x="36" y="282" fill="#6e6e73" font-size="20" font-weight="600"><tspan x="36" dy="0">AI 助理</tspan></text><rect x="20" y="298" width="532" height="326" rx="16" fill="#ffffff"/><text x="42" y="334" fill="#1d1d1f" font-size="24" font-weight="700"><tspan x="42" dy="0">本周财务小结</tspan></text><text x="42" y="374" fill="#6e6e73" font-size="22" font-weight="400"><tspan x="42" dy="0">净支出</tspan></text><text x="42" y="423" fill="#0066cc" font-size="42" font-weight="700"><tspan x="42" dy="0">¥523.80</tspan></text><text x="42" y="460" fill="#6e6e73" font-size="22" font-weight="400"><tspan x="42" dy="0">支出 ¥823.80 − 已到账退款 ¥300</tspan></text><path d="M42 480h488" stroke="#ededf0"/><text x="42" y="516" fill="#1d1d1f" font-size="24" font-weight="600"><tspan x="42" dy="0">交通 ¥420     餐饮 ¥103.80</tspan></text><text x="42" y="559" fill="#6e6e73" font-size="20" font-weight="600"><tspan x="42" dy="0">本月预算</tspan></text><text x="42" y="596" fill="#1d1d1f" font-size="22" font-weight="400"><tspan x="42" dy="0">交通已超额，餐饮快用完了。</tspan></text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="780" viewBox="0 0 600 780" role="img" aria-labelledby="weekly-title weekly-desc">
+  <title id="weekly-title">设一次，每周自动收到财务周报</title>
+  <desc id="weekly-desc">你：每周日晚上 8 点发我一份财务周报。AI 助理：已设好，每周日 20:00（北京时间）发给你。11 月 15 日 · 周日 20:00，AI 助理主动发送财务周报（11 月 9–15 日）：本周净支出 ¥523.80，支出 ¥823.80 − 退款 ¥300；交通 ¥420，餐饮 ¥103.80。本月预算：交通 ¥508 / ¥500，超出 ¥8；餐饮 ¥186.80 / ¥200，还剩 ¥13.20。</desc>
+  <rect width="600" height="780" rx="20" fill="#f5f5f7"/>
+  <g font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif">
+    <text x="564" y="32" text-anchor="end" fill="#6e6e73" font-size="18" font-weight="600">你</text>
+    <rect x="104" y="46" width="472" height="58" rx="16" fill="#0066cc"/>
+    <text x="124" y="82" fill="#ffffff" font-size="20">每周日晚上 8 点发我一份财务周报。</text>
+
+    <text x="36" y="138" fill="#6e6e73" font-size="18" font-weight="600">AI 助理</text>
+    <rect x="24" y="152" width="462" height="84" rx="16" fill="#ffffff"/>
+    <text x="44" y="186" fill="#1d1d1f" font-size="20">
+      <tspan x="44">已设好，每周日 20:00（北京时间）</tspan>
+      <tspan x="44" dy="30">发给你。</tspan>
+    </text>
+
+    <path d="M36 275h102 M462 275h102" stroke="#d9dce1"/>
+    <text x="300" y="281" text-anchor="middle" fill="#6e6e73" font-size="18">11 月 15 日 · 周日 20:00</text>
+
+    <rect x="24" y="306" width="552" height="450" rx="18" fill="#ffffff"/>
+    <text x="48" y="341" fill="#1d1d1f" font-size="20" font-weight="600">AI 助理 · 财务周报（11 月 9–15 日）</text>
+    <path d="M48 359h504" stroke="#ededf0"/>
+    <text x="48" y="392" fill="#6e6e73" font-size="20">本周净支出</text>
+    <text x="48" y="439" fill="#0066cc" font-size="42" font-weight="700">¥523.80</text>
+    <text x="48" y="471" fill="#6e6e73" font-size="19">支出 ¥823.80 − 退款 ¥300</text>
+
+    <text x="48" y="510" fill="#1d1d1f" font-size="20">交通 ¥420</text>
+    <rect x="48" y="521" width="504" height="8" rx="4" fill="#edf0f4"/>
+    <rect x="48" y="521" width="404.12" height="8" rx="4" fill="#0066cc"/>
+    <text x="48" y="561" fill="#1d1d1f" font-size="20">餐饮 ¥103.80</text>
+    <rect x="48" y="572" width="504" height="8" rx="4" fill="#edf0f4"/>
+    <rect x="48" y="572" width="99.88" height="8" rx="4" fill="#739ec9"/>
+
+    <path d="M48 606h504" stroke="#ededf0"/>
+    <text x="48" y="640" fill="#6e6e73" font-size="19" font-weight="600">本月预算</text>
+    <text x="48" y="678" fill="#1d1d1f" font-size="20">交通 ¥508 / ¥500，超出 ¥8</text>
+    <text x="48" y="716" fill="#1d1d1f" font-size="20">餐饮 ¥186.80 / ¥200，还剩 ¥13.20</text>
+  </g>
+</svg>
