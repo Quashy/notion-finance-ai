@@ -10,7 +10,7 @@
 
 ## 看 AI 助理怎么把账管起来
 
-先把 [Notion 模板](https://quashy.notion.site/306-Money-41a4aad76d888149a195fdfe4b231c1b)复制到自己的工作区，再把**你的账本首页链接**和[接入指南](docs/AI_SETUP.md)发给 Personal Agent。只要它能连接 Notion，并且能读取和写入这份账本，就可以开始记。不用自己搭服务，也不用先填好钱包和预算。
+把接入指南交给 Personal Agent 就能开始：[复制下面这句开工指令](#让-ai-助理接手第一笔账)。能代办的让它做，确实缺连接、权限或信息时再问你，不用先自己搭服务、填钱包或设预算。
 
 ### 发一句话，记账、退款和核对一起做
 
@@ -60,16 +60,15 @@
 
 ## 让 AI 助理接手第一笔账
 
-1. [复制 Notion 模板](https://quashy.notion.site/306-Money-41a4aad76d888149a195fdfe4b231c1b)到自己的工作区。
-2. 把你的账本首页链接和下面这句话发给能连接 Notion 的 Personal Agent，按提示给它这份账本的读写权限。
-3. 发出第一笔日常支出，打开 AI 返回的记录，看看日期、金额和分类是否正确。
+把这句话发给你的 Personal Agent：
 
 ```text
-请阅读下面的指南，连接我自己的 Notion 财务账本，带我记下第一笔支出：
-https://raw.githubusercontent.com/Quashy/notion-finance-ai/main/docs/AI_SETUP.md
+请按这份指南帮我把 Notion 账本搭好：https://raw.githubusercontent.com/Quashy/notion-finance-ai/main/docs/AI_SETUP.md
 ```
 
-[完整的 Agent 搭建指南](docs/AI_SETUP.md) · 想直接用 Notion？复制后从首页点「新增支出」或「新增收入」。
+[完整的 Agent 搭建指南](docs/AI_SETUP.md)
+
+想手动使用 Notion？也可以[复制模板](https://quashy.notion.site/306-Money-41a4aad76d888149a195fdfe4b231c1b)，从首页点「新增支出」或「新增收入」。
 
 ### 开始前
 
