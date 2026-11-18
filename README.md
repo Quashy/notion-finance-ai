@@ -12,6 +12,7 @@
   <a href="https://about.fb.com/news/2026/09/introducing-muse-small-business/"><img src="docs/images/agent-muse.svg" alt="Meta Muse" width="130" height="36"></a>
   <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot"><img src="docs/images/agent-openai.svg" alt="ChatGPT Dot" width="142" height="36"></a>
   <a href="https://developers.notion.com/guides/mcp/get-started-with-mcp#claude-code"><img src="docs/images/agent-claudecode.svg" alt="Claude Code" width="144" height="36"></a>
+  <a href="https://www.doubao.com/"><img src="docs/images/agent-doubao.svg" alt="豆包" width="84" height="36"></a>
 </p>
 
 <p align="center">AI 助理帮你记账、核对退款、定时发报表。账留在你自己的 Notion，随时能查。</p>
